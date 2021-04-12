@@ -5,4 +5,4 @@ Este proyecto contiene una Pagina Web sencilla de comercio electronico. Creada c
 
 ## Manifestación
 Si quieres ver la demostración de este proyecto, puedes hacerlo en el siguiente enlace,
-* https://books-market.000webhostapp.com/
+* https://estefani-a.github.io/Pagina-Web-de-Ventas/
